@@ -4,21 +4,19 @@
 
 ### 🚀 Análise e Desenvolvimento de Sistemas | Em Transição de Carreira
 
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Curso">
-</p>
+`📌 Status: Em Transição de Carreira` &nbsp;|&nbsp; `🎓 Instituição: Senac RN`
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-Aqui estão as linguagens e tecnologias que utilizo e estou estudando:
+### 🛠️ Minha Pilha de Tecnologia (Tech Stack)
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+⚡ **Linguagens e Fundamentos:** Lógica de Programação | Python | JavaScript
+🎨 **Desenvolvimento Web:** HTML5 | CSS3
+📐 **Ferramentas Técnicas:** AutoCAD
+
+---
 
 </div>
-
----
 
 ### 💼 Experiência em Destaque
 * **⚡ Operador de Vendas e Serviços de Campo** – Brisanet Telecomunicações *(Atual)*
@@ -45,13 +43,7 @@ Aqui estão as linguagens e tecnologias que utilizo e estou estudando:
 
 ### 📫 Vamos nos conectar?
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:paulofernandesoficial7@gmail.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)  
+📧 **E-mail:** paulofernandesoficial7@gmail.com
 
 </div>
