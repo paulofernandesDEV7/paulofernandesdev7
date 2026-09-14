@@ -32,5 +32,5 @@ Atuo na área de Operações e Telecomunicações e estou em transição de carr
 ---
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **LinkedIn:** www.linkedin.com/in/paulo-fernandes7
 * **E-mail:** paulofernandesoficial7@gmail.com
