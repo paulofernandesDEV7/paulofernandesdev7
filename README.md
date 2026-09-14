@@ -1,32 +1,22 @@
+<div align="center">
+
 # Olá, eu sou o Paulo Fernandes! 👋
 
-<p align="left">
+### 🚀 Análise e Desenvolvimento de Sistemas | Em Transição de Carreira
+
+<p align="center">
   <img src="https://shields.io" alt="Status">
   <img src="https://shields.io" alt="Curso">
 </p>
 
-Atuo na área de Operações e Telecomunicações e estou em transição de carreira para a tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** pelo Senac. Busco unir minha sólida experiência em liderança operacional e processos técnicos com o desenvolvimento de softwares eficientes.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+Aqui estão as linguagens e tecnologias que utilizo e estou estudando:
 
-<p align="left">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="AutoCAD">
-</p>
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
----
-
-### 📊 Estatísticas do Meu Perfil
-
-<p align="left">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub">
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas">
-</p>
+</div>
 
 ---
 
@@ -47,13 +37,15 @@ Atuo na área de Operações e Telecomunicações e estou em transição de carr
 ### 📈 Minhas Metas Acadêmicas
 - [ ] Criar projetos práticos aplicando lógica estruturada e POO em Python.
 - [ ] Desenvolver interfaces Web responsivas e integradas.
-- [ ] Construir um portfólio sólido de ferramentas focadas em automação e melhoria contínua de processos.
+- [ ] Construir um portfólio sólido de ferramentas focadas em automação de processos.
 
 ---
 
+<div align="center">
+
 ### 📫 Vamos nos conectar?
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
@@ -61,3 +53,5 @@ Atuo na área de Operações e Telecomunicações e estou em transição de carr
     <img src="https://shields.io" alt="Email">
   </a>
 </p>
+
+</div>
