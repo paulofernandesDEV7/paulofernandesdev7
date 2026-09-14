@@ -25,18 +25,18 @@
 <div align="center">
 
 ```text
-                        ╔══════════════════════════════════════════════════════════════╗
-                        ║                                                              ║
-                        ║                 P . F . I . S .   v 1 . 0                    ║
-                        ║                                                              ║
-                        ║              PERSONAL INTELLIGENCE SYSTEM                    ║
-                        ║                                                              ║
-                        ╠══════════════════════════════════════════════════════════════╣
-                        ║                                                              ║
-                        ║  IDENTITY             VERIFIED                               ║
-                        ║  SYSTEM               ONLINE                                 ║
-                        ║  CURRENT MODE         LEARNING                               ║
-                        ║  DEVELOPMENT          IN PROGRESS                            ║
-                        ║  PRIMARY OBJECTIVE    SYSTEMS DEVELOPMENT                    ║
-                        ║                                                              ║
-                        ╚══════════════════════════════════════════════════════════════╝
+                       ╔══════════════════════════════════════════════════════════════╗
+                       ║                                                              ║
+                       ║                    P . F . I . S .   v 1 . 0                 ║
+                       ║                                                              ║
+                       ║                  PERSONAL INTELLIGENCE SYSTEM                ║
+                       ║                                                              ║
+                       ╠══════════════════════════════════════════════════════════════╣
+                       ║                                                              ║
+                       ║  IDENTITY             VERIFIED                               ║
+                       ║  SYSTEM               ONLINE                                 ║
+                       ║  CURRENT MODE         LEARNING                               ║
+                       ║  DEVELOPMENT          IN PROGRESS                            ║
+                       ║  PRIMARY OBJECTIVE    SYSTEMS DEVELOPMENT                    ║
+                       ║                                                              ║
+                       ╚══════════════════════════════════════════════════════════════╝
